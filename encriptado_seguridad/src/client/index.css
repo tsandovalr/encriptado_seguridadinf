@@ -1,0 +1,38 @@
+*{box-sizing:border-box;}
+
+div{
+	margin: 2rem;
+	padding: 2rem;
+}
+
+label{
+	padding: 5px;
+	border-top: 5px;
+}
+
+button{
+	width:100%;
+	padding:7px 15px;
+	margin-top:32px;
+	border:1px solid #b9b9c0 ;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#353463 ;
+} 
+
+button:hover{
+	cursor:pointer;
+	width:95.5%;
+}
+
+textarea{
+	width:100%;
+	height:100px;
+	border:1px solid #372fa8;
+	border-radius:3px;
+	background-color:#a3a3a5;			
+	margin:7px 0;
+	resize:none;
+	display:block;
+}
